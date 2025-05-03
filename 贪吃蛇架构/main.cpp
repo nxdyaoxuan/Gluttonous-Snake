@@ -1903,6 +1903,9 @@ bool snakeChangelength()//******************************************************
 //}
 
 
+
+
+
 void loadGameResource()
 {
 	loadimage(&BackGound, "../GameMaterials/BackGround.jpg", 640, 480);
